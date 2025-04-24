@@ -1,0 +1,5 @@
+name = "hwjnote"
+compatibility_date = "2025-04-24"
+
+[pages]
+assets = "dist"
